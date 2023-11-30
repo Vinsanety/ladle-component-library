@@ -1,0 +1,5 @@
+.ladle-linkable div,
+.ladle-linkable.ladle-active div {
+  display: flex;
+  align-items: center;
+}
