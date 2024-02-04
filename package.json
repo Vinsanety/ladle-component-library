@@ -8,7 +8,7 @@
     "preview": "npx ladle preview"
   },
   "dependencies": {
-    "@ladle/react": "^4.0.1",
+    "@ladle/react": "^4.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
