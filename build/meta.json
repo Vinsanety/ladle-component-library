@@ -5,15 +5,114 @@
     "version": 1
   },
   "stories": {
-    "hello--world": {
-      "name": "World",
+    "button--outlined-button": {
+      "name": "Outlined button",
       "levels": [
-        "Hello"
+        "Button"
+      ],
+      "locStart": 9,
+      "locEnd": 13,
+      "filePath": "src/button.stories.tsx",
+      "namedExport": "OutlinedButton",
+      "meta": {}
+    },
+    "button--primary-button": {
+      "name": "Primary button",
+      "levels": [
+        "Button"
       ],
       "locStart": 3,
       "locEnd": 3,
-      "filePath": "src/hello.stories.tsx",
-      "namedExport": "World",
+      "filePath": "src/button.stories.tsx",
+      "namedExport": "PrimaryButton",
+      "meta": {}
+    },
+    "button--secondary-button": {
+      "name": "Secondary button",
+      "levels": [
+        "Button"
+      ],
+      "locStart": 5,
+      "locEnd": 7,
+      "filePath": "src/button.stories.tsx",
+      "namedExport": "SecondaryButton",
+      "meta": {}
+    },
+    "button--text-link": {
+      "name": "Text link",
+      "levels": [
+        "Button"
+      ],
+      "locStart": 15,
+      "locEnd": 15,
+      "filePath": "src/button.stories.tsx",
+      "namedExport": "TextLink",
+      "meta": {}
+    },
+    "form--checkbox": {
+      "name": "Checkbox",
+      "levels": [
+        "Form"
+      ],
+      "locStart": 54,
+      "locEnd": 61,
+      "filePath": "src/form.stories.tsx",
+      "namedExport": "Checkbox",
+      "meta": {}
+    },
+    "form--input": {
+      "name": "Input",
+      "levels": [
+        "Form"
+      ],
+      "locStart": 3,
+      "locEnd": 13,
+      "filePath": "src/form.stories.tsx",
+      "namedExport": "Input",
+      "meta": {}
+    },
+    "form--radio": {
+      "name": "Radio",
+      "levels": [
+        "Form"
+      ],
+      "locStart": 37,
+      "locEnd": 52,
+      "filePath": "src/form.stories.tsx",
+      "namedExport": "Radio",
+      "meta": {}
+    },
+    "form--select": {
+      "name": "Select",
+      "levels": [
+        "Form"
+      ],
+      "locStart": 15,
+      "locEnd": 24,
+      "filePath": "src/form.stories.tsx",
+      "namedExport": "Select",
+      "meta": {}
+    },
+    "form--textarea": {
+      "name": "Textarea",
+      "levels": [
+        "Form"
+      ],
+      "locStart": 26,
+      "locEnd": 35,
+      "filePath": "src/form.stories.tsx",
+      "namedExport": "Textarea",
+      "meta": {}
+    },
+    "pagination--pagination": {
+      "name": "Pagination",
+      "levels": [
+        "Pagination"
+      ],
+      "locStart": 49,
+      "locEnd": 85,
+      "filePath": "src/pagination.stories.tsx",
+      "namedExport": "Pagination",
       "meta": {}
     }
   }

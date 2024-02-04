@@ -15,5 +15,6 @@ export default {
     "form--textarea",
     "form--radio",
     "form--checkbox",
+    "pagination--pagination",
   ],
 };

@@ -1,1 +1,0 @@
-import{j as e}from"./index-1dyYZBFp.js";const o=()=>e.jsx("p",{children:"Hey!"});typeof window<"u"&&window.document&&window.document.createElement&&document.documentElement.setAttribute("data-storyloaded","");export{o as World};
